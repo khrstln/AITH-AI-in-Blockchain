@@ -20,3 +20,5 @@ __pycache__/
 *$py.class
 
 /Lessons
+HW_1/blockchain.log
+HW_1/the_longest_chain.pickle
